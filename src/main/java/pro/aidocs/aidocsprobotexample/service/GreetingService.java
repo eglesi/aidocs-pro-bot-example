@@ -5,6 +5,11 @@
  */
 /**
  * Service class responsible for generating greeting messages.
+ * It provides methods to create personalized greetings based on input names,
+ * handling cases where the name is not provided.
+ */
+/**
+ * Service class responsible for generating greeting messages.
  * It provides methods to create personalized greetings based on input,
  * handling cases where the name is not provided.
  */
