@@ -1,3 +1,7 @@
+/**
+ * REST controller for application health checks.
+ * Provides a simple endpoint to indicate the application's operational status.
+ */
 package pro.aidocs.aidocsprobotexample.health;
 
 import org.springframework.web.bind.annotation.GetMapping;
