@@ -6,6 +6,10 @@
  * Represents a task item.
  * This class serves as a data model for a task, encapsulating properties such as an ID, title, description, and completion status.
  */
+/**
+ * Represents a task item.
+ * This class serves as a data model for a task, encapsulating properties such as an ID, title, description, and completion status.
+ */
 package pro.aidocs.aidocsprobotexample.task;
 
 
